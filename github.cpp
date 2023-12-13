@@ -6,7 +6,7 @@
 int main()
 {
  Pull-Request
-    std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello GitHub World\n";
 
     std::cout << "GitHub Clone changed\n";
  master
